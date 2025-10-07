@@ -1,6 +1,6 @@
 # learning
 learning new things.
 <br>
-author: Daim
+author: Daim (plc group)
 <br>
-plc group
+plc group. 
