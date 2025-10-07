@@ -1,2 +1,4 @@
 # learning
-learning new things
+learning new things.
+<br>
+author: Daim
